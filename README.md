@@ -14,11 +14,11 @@
 
 ## Descrição
 
-Esse projeto foi desenvolvido durante a Semana Spring React do canal DevSuperior.[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g) [!
+Esse projeto foi desenvolvido durante a Semana Spring React do canal DevSuperior[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g).
 
 Para acessar o projeto hospedado no Netlify [clique aqui](https://lucas-movie.netlify.app/)
 
-## Páginas do projeto
+## Layout base do projeto
 
 ### Principal
  <img src="https://github.com/LucasKrzy/movie/blob/main/layoutPrincipal.png?raw=true" width="100%">
