@@ -21,8 +21,5 @@ Para acessar o projeto hospedado no Netlify [clique aqui](https://lucas-movie.ne
 ## Layout base do projeto
 
 ### Principal
- <img src="https://github.com/LucasKrzy/movie/blob/main/layoutPrincipal.png?raw=true" width="100%">
+ <img src="https://github.com/LucasKrzy/meta/blob/main/layoutPrincipal.png?raw=true" width="100%">
  
- 
-### Avaliação do Filme
- <img src="https://github.com/LucasKrzy/movie/blob/main/layoutFilme.png?raw=true" width="100%">
